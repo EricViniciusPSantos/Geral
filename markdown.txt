@@ -1,0 +1,82 @@
+##**Instalação** 
+Apache 2 
+PHP 7.1
+Mariadb 10
+JVM 8
+
+####**Servidor**
+servidor.jar
+
+####**Clientes**
+cliente.jar
+
+###**API Doc**
+
+###Criar
+
+```
+	/alert?ip=:ip
+
+```
+
+Parameter
+
+
+| **Nome**      | **Tipo**      |
+| ------------- | ------------- |
+| ip            | string        |
+| Content Cell  | Content Cell  |
+|               |               |
+|               |               |
+|               |               |
+
+
+```
+	/alert?ip=:ip
+
+```
+
+Parameter
+
+
+| **Nome**      | **Tipo**      |
+| ------------- | ------------- |
+| ip            | string        |
+| Content Cell  | Content Cell  |
+|               |               |
+|               |               |
+|               |               |
+
+
+```
+	/alert?ip=:ip
+
+```
+
+Parameter
+
+
+| **Nome**      | **Tipo**      |
+| ------------- | ------------- |
+| ip            | string        |
+| Content Cell  | Content Cell  |
+|               |               |
+|               |               |
+|               |               |
+
+
+```
+	/alert?ip=:ip
+
+```
+
+Parameter
+
+
+| **Nome**      | **Tipo**      |
+| ------------- | ------------- |
+| ip            | string        |
+| Content Cell  | Content Cell  |
+|               |               |
+|               |               |
+|               |               |
